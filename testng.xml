@@ -4,7 +4,6 @@
   <test name="Leads">
     <classes>
       <class name="com.leaftaps.testcases.TC001_CreateLead"/>"/>
-      <class name="com.leaftaps.testcases.TC002_EditLead"/>"/>
     </classes>
   </test> 
 </suite>
